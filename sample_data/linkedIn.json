@@ -1,0 +1,22 @@
+{
+  "name": "John Doe",
+  "headline": "Senior Backend Engineer",
+  "location": "New York",
+  "experience": [
+    {
+      "company": "Google",
+      "title": "Software Engineer"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "degree": "B.Tech Computer Science"
+    }
+  ],
+  "skills": [
+    "Python",
+    "AWS",
+    "Kubernetes"
+  ]
+}

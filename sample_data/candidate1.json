@@ -1,0 +1,20 @@
+{
+  "candidate_id": "ATS001",
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "+1 212-555-0100",
+  "location": "New York, USA",
+  "skills": [
+    "Python",
+    "AWS",
+    "Docker"
+  ],
+  "experience": [
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "start_date": "2021-01",
+      "end_date": "2024-06"
+    }
+  ]
+}

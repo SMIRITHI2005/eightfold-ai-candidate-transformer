@@ -1,0 +1,21 @@
+{
+  "username": "johndoe",
+  "name": "John Doe",
+  "bio": "Backend Engineer",
+  "location": "New York",
+  "languages": [
+    "Python",
+    "Go",
+    "Docker"
+  ],
+  "repositories": [
+    {
+      "name": "candidate-transformer",
+      "language": "Python"
+    },
+    {
+      "name": "aws-toolkit",
+      "language": "Go"
+    }
+  ]
+}

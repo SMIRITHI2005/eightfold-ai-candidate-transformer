@@ -1,0 +1,14 @@
+Name: John Doe
+
+Email: john.doe@example.com
+
+Phone: +1 212-555-0100
+
+Company: Google
+
+Skills: Python, Kubernetes, AWS
+
+Overall impression:
+Strong backend engineer.
+Excellent communication skills.
+Can lead small teams.

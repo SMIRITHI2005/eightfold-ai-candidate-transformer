@@ -1,0 +1,14 @@
+fields:
+  candidate_name:
+    source: full_name
+    include_confidence: true
+    include_provenance: true
+  emails:
+    source: emails
+    include_provenance: true
+  phones:
+    source: phones
+    include_provenance: true
+  skills:
+    source: skills
+    include_provenance: true
