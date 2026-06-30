@@ -1,9 +1,5 @@
 # Candidate Transformer
 
-Enterprise-grade, deterministic candidate data transformer for ATS JSON, resume files, LinkedIn exports, GitHub profile JSON, and recruiter notes.
-
-# Candidate Transformer
-
 An evidence-first, multi-source candidate data transformer.
 
 This project ingests resumes, ATS exports, LinkedIn/GitHub profiles, and recruiter notes; extracts structured facts with provenance; normalizes values; resolves conflicts via weighted consensus; and emits a canonical profile plus a configurable projection schema.
@@ -75,9 +71,5 @@ Notes and troubleshooting
 - Ollama support is local-only. If you want semantic extraction, run an Ollama-compatible server at `http://localhost:11434` and set `OLLAMA_HOST` in your environment (or update `AppSettings`).
 - If `streamlit run` fails with port in use, pass `--server.port` with an available port.
 
-Developer notes
-- Tests are in `tests/` and can be run with `pytest`.
-- The projection config examples live in `examples/`.
 
-License
-- (Add your license here)
+
