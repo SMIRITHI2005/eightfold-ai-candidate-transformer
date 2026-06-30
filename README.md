@@ -1,4 +1,4 @@
-#EVIDENTIA
+EVIDENTIA
 
 
 An evidence-first, multi-source candidate data transformer.
